@@ -1,10 +1,10 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi9KernelPoweredBySeparate",
-      "repo": "https://github.com/Separatee/AllinOneKernel",
-      "branch": "main",
-      "device": "cepheus",
+      "name": "dc-a588",
+      "repo": "https://github.com/yifengyou/dc-a588-kernel-5.10.226",
+      "branch": "master",
+      "device": "a588",
       "defconfig": "cepheus_defconfig"
     },
     "toolchains": [
